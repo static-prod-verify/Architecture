@@ -1,4 +1,4 @@
-# ARCHITECTURE - try 2
+# ARCHITECTURE - try 3
 
 ![](https://github.com/rafaelfgx/Architecture/actions/workflows/build.yaml/badge.svg)
 
